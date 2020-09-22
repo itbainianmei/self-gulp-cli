@@ -1,0 +1,8 @@
+{
+  "name": "self-gulp-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itbainianmei/self-gulp-cli.git",
+  "author": "张英美 <1935686874@qq.com>",
+  "license": "MIT"
+}
